@@ -1,0 +1,10 @@
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.Form1.resources
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.Properties.Resources.resources
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.csproj.GenerateResource.cache
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.csproj.CoreCompileInputs.cache
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\bin\Debug\sinozicSebastianVjezba.exe.config
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\bin\Debug\sinozicSebastianVjezba.exe
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\bin\Debug\sinozicSebastianVjezba.pdb
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.exe
+C:\Users\4.D\source\repos\sinozicSebastianVjezba\sinozicSebastianVjezba\obj\Debug\sinozicSebastianVjezba.pdb
